@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="spin">Sports</string>
+    <string name="sport1">Name:    Basketball Year: 1891 Inventor: James Naismith</string>
+    <string name="sport2">Name:    Boxing Year: 1681 Inventor: Christopher Monck</string>
+    <string name="sport3">Name:    Chess Year: 200 B.C. Inventor: Han Xin</string>
+    <string name="sport4">Name:    Golf Year: 13th Century Inventor: Scots</string>
+    <string name="sport5">Name:    Karate Year: 1912 Inventor: Gichin Funakoshi</string>
+    <string name="sport6">Name:    Racing Year: 1906 Inventor: Le Velocipede, Monsieur Fossier</string>
+    <string name="sport7">Name:    Rugby Year: 1823 Inventor: William Webb Ellis</string>
+    <string name="sport8">Name:    Swimming Year: 1875 Inventor: Capt. Matthew Webb" </string>
+</resources>
+
